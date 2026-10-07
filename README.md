@@ -232,9 +232,9 @@ curl http://localhost:3000/campaigns/campaign_001
 
 ## docs
 
-- [docs/01_BFF概要.md](/Users/zjzj-zz/Documents/Codex/2026-06-18/flutter-javascript-bff-wiremock-4-1/bff-training/docs/01_BFF概要.md)
-- [docs/02_起動方法.md](/Users/zjzj-zz/Documents/Codex/2026-06-18/flutter-javascript-bff-wiremock-4-1/bff-training/docs/02_起動方法.md)
-- [docs/03_ディレクトリ構成.md](/Users/zjzj-zz/Documents/Codex/2026-06-18/flutter-javascript-bff-wiremock-4-1/bff-training/docs/03_ディレクトリ構成.md)
-- [docs/04_API仕様.md](/Users/zjzj-zz/Documents/Codex/2026-06-18/flutter-javascript-bff-wiremock-4-1/bff-training/docs/04_API仕様.md)
-- [docs/05_Mock連携.md](/Users/zjzj-zz/Documents/Codex/2026-06-18/flutter-javascript-bff-wiremock-4-1/bff-training/docs/05_Mock連携.md)
-- [docs/06_トラブルシュート.md](/Users/zjzj-zz/Documents/Codex/2026-06-18/flutter-javascript-bff-wiremock-4-1/bff-training/docs/06_トラブルシュート.md)
+- [docs/01_BFF概要.md](docs/01_BFF概要.md)
+- [docs/02_起動方法.md](docs/02_起動方法.md)
+- [docs/03_ディレクトリ構成.md](docs/03_ディレクトリ構成.md)
+- [docs/04_API仕様.md](docs/04_API仕様.md)
+- [docs/05_Mock連携.md](docs/05_Mock連携.md)
+- [docs/06_トラブルシュート.md](docs/06_トラブルシュート.md)
